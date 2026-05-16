@@ -20,12 +20,12 @@ export default defineConfig({
   server: {
     port: 3000,
     host: true,
-    allowedHosts: ["safer-1uc0.onrender.com/"],
+    allowedHosts: ["safer-1uc0.onrender.com"],
   },
   preview: {
     port: 3000,
     host: true,
-    allowedHosts: ["safer-1uc0.onrender.com/"],
+    allowedHosts: ["safer-1uc0.onrender.com"],
   },
   resolve: {
     alias: {
